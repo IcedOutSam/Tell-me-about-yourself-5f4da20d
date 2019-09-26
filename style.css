@@ -1,0 +1,47 @@
+h1 {
+    color: red;
+
+	color: blue; 
+}
+
+h2{
+	color: red;
+} 
+
+body {
+font-family: "Verdana", Geneva, sans-serif;
+}
+body {background-color: skyblue;
+}
+img {
+	width: 150px; 
+}
+input  {
+	border-radius: 30px;
+	display: block; 
+	font-family: "Verdana", Geneva, sans-serif;
+	color: #fc8eac;
+	background: black;
+	
+
+
+}
+
+#solocheck{
+	float:left;
+
+}
+#Solo{
+	float:left;
+
+}
+
+#DuoCheck{
+	float:left;
+
+}
+#Duo{
+	float:left;
+
+}
+
